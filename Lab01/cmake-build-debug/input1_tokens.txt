@@ -1,0 +1,27 @@
+Iniciando Scanner para archivo: input1.txt
+
+TOKEN(ID, "ola")
+TOKEN(MUL, "*")
+TOKEN(NUM, "12")
+TOKEN(PLUS, "+")
+TOKEN(NUM, "3.14")
+TOKEN(MUL, "*")
+TOKEN(MUL, "*")
+TOKEN(ALPHA, "a")
+TOKEN(MUL, "*")
+TOKEN(ID, "xd")
+TOKEN(SEMICOLON, ";")
+TOKEN(LOG, "log")
+TOKEN(NUM, "7")
+TOKEN(MUL, "*")
+TOKEN(COS, "cos")
+TOKEN(NUM, "90")
+TOKEN(PLUS, "+")
+TOKEN(NUM, "3")
+TOKEN(MINUS, "-")
+TOKEN(NUM, "5")
+TOKEN(SEMICOLON, ";")
+TOKEN(END)
+
+Scanner exitoso
+
