@@ -1,0 +1,20 @@
+Iniciando Scanner para archivo: inputs/input11.txt
+
+TOKEN(ID, "log")
+TOKEN(LPAREN, "(")
+TOKEN(ID, "x1")
+TOKEN(RPAREN, ")")
+TOKEN(PLUS, "+")
+TOKEN(SQRT, "sqrt")
+TOKEN(LPAREN, "(")
+TOKEN(ID, "x5")
+TOKEN(RPAREN, ")")
+TOKEN(PLUS, "+")
+TOKEN(ID, "pow")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "2")
+TOKEN(ERR, ",")
+Caracter invalido
+
+Scanner no exitoso
+

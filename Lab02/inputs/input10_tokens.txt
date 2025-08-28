@@ -1,0 +1,18 @@
+Iniciando Scanner para archivo: inputs/input10.txt
+
+TOKEN(NUM, "2")
+TOKEN(POW, "**")
+TOKEN(NUM, "5")
+TOKEN(PLUS, "+")
+TOKEN(SQRT, "sqrt")
+TOKEN(LPAREN, "(")
+TOKEN(NUM, "5")
+TOKEN(PLUS, "+")
+TOKEN(NUM, "2")
+TOKEN(MUL, "*")
+TOKEN(NUM, "3")
+TOKEN(RPAREN, ")")
+TOKEN(END)
+
+Scanner exitoso
+

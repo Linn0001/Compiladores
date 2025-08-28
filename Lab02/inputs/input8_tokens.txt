@@ -1,0 +1,13 @@
+Iniciando Scanner para archivo: inputs/input8.txt
+
+TOKEN(NUM, "3")
+TOKEN(POW, "**")
+TOKEN(NUM, "2")
+TOKEN(PLUS, "+")
+TOKEN(NUM, "4")
+TOKEN(POW, "**")
+TOKEN(NUM, "2")
+TOKEN(END)
+
+Scanner exitoso
+
